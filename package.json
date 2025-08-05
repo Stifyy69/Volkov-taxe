@@ -1,6 +1,5 @@
-
 {
-  "name": "railway-cnp-app",
+  "name": "mafia-cnp-app",
   "version": "1.0.0",
   "description": "App cu login si log CNP pentru Railway",
   "main": "server.js",
